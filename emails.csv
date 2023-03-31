@@ -1,0 +1,3 @@
+From,To,Subject,Format,Body
+nillyse@protonmail.com,test@example.com;someOtherTest@example.com,Text Email,text,Good morning
+nillyse@protonmail.com,test@example.com,Html Email,html,"<h1><b>Good Morning, <br>Something something</b></h1>"
